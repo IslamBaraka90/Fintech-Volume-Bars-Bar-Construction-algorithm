@@ -1,7 +1,7 @@
 {
   "name": "fintech-volume-bars",
   "version": "0.1.0",
-  "description": "Volume Bars for market-data engineering — aggregate a trade tape into fixed-volume OHLCV bars (an activity clock). Canonical cross-language reference implementation.",
+  "description": "Volume Bars for market-data engineering \u2014 aggregate a trade tape into fixed-volume OHLCV bars (an activity clock). Canonical cross-language reference implementation.",
   "keywords": [
     "fintech",
     "volume-bars",
@@ -47,6 +47,7 @@
     "example": "node --experimental-strip-types examples/quickstart.ts"
   },
   "devDependencies": {
+    "@types/node": "^22.0.0",
     "typescript": "^5.7.0"
   }
 }

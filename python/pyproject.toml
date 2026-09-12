@@ -6,7 +6,6 @@ build-backend = "hatchling.build"
 name = "fintech-volume-bars"
 version = "0.1.0"
 description = "Volume Bars for market-data engineering — aggregate a trade tape into fixed-volume OHLCV bars (an activity clock). Canonical cross-language reference implementation."
-readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
 authors = [{ name = "The Fintech Builder", email = "islam.baraka.90@gmail.com" }]
